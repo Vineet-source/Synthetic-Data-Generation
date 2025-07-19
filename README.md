@@ -25,7 +25,7 @@ python dataset.py
 ### 🚀 Train the Models
 
 - For **StyleGAN2-ADA**, go to `stylegan2_ada/` and follow instructions in the training notebook.
-- For **Projected GAN**, refer to the training scripts inside `projected_gan/`.
+- For **Projected GAN**, refer to the training scripts inside `Research_intern/projected_gan/`.
 
 ---
 
